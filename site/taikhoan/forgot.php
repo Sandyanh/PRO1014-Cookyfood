@@ -11,9 +11,9 @@
         content="Erratum – Multi purpose error page template for Service, corporate, agency, Consulting, startup.">
     <meta name="keywords" content="Error page 404, page not found design, wrong url">
     <meta name="author" content="Ashishmaraviya">
-    <link rel="icon" href="assets/images/favicon.png" type="image/x-icon" />
-    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon" />
-    <title>404 - Error page pack all in one</title>
+    <link rel="icon" href="assets/images/c.png" type="image/x-icon"/>
+    <link rel="shortcut icon" href="assets/images/c.png" type="image/x-icon" />
+    <title>Quên mật khẩu</title>
     <!--Google font-->
     <link
         href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300&amp;display=swap"
